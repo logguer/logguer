@@ -56,14 +56,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/logguer/logguer.git"
+    "url": "git+https://github.com/loggists/logger.git"
   },
   "author": "stakbucks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/logguer/logguer/issues"
+    "url": "https://github.com/loggists/logger/issues"
   },
-  "homepage": "https://github.com/logguer/logguer#readme",
+  "homepage": "https://github.com/loggists/logger#readme",
   "keywords": [
     "react",
     "analytics",
